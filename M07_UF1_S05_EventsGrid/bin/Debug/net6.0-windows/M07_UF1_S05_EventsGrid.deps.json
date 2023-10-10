@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "M07_UF1_S05_EventsGrid/1.0.0": {
+        "runtime": {
+          "M07_UF1_S05_EventsGrid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M07_UF1_S05_EventsGrid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
